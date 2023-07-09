@@ -1,6 +1,3 @@
-
-
-/* NAVBAR */
 #header {
   transition: all 0.5s;
   z-index: 997;
@@ -40,7 +37,7 @@
 * Desktop Navigation 
 */
 .navbar {
-  font-family: 'Jost', sans-serif;
+  padding: 0;
 }
 
 .navbar ul {
@@ -74,12 +71,13 @@
   line-height: 0;
   margin-left: 5px;
 }
- .navbar a:hover,
+
+.navbar a:hover,
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: rgb(14, 41, 84);
-} 
+  color: #37517e;
+}
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
@@ -92,11 +90,11 @@
   font-weight: 600;
 }
 
-.navbar .getstarted:hover,
+/* .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
   background: #31a9e1;
-}
+} */
 
 .navbar .dropdown ul {
   display: block;
@@ -315,8 +313,6 @@
 .navbar-mobile .dropdown>.dropdown-active {
   display: block;
 }
-
-/* NAVBAR */
 
 /* #product-icon */
 
