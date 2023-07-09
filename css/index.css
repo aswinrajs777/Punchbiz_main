@@ -175,13 +175,12 @@ h6 {
   line-height: 0;
   margin-left: 5px;
 }
-
-/* .navbar a:hover,
+ .navbar a:hover,
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
   color: rgb(14, 41, 84);
-} */
+} 
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
