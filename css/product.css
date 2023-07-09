@@ -41,7 +41,7 @@
 */
 .navbar {
   font-family: 'Jost', sans-serif;
-  padding: 0;
+  margin-left: 860px;
 }
 
 .navbar ul {
