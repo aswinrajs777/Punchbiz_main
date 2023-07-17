@@ -365,24 +365,20 @@
   left: calc(50% - 20px);
 }
 
-/* txt */
-
+  /* txt */
 
 
   /* ABOUT COMPANY */
- 
-  #sec2{
 
+  #sec2{
     padding: 2%; 
-    
     background-image: url("images/bgg.jpeg");
     background-color: rgba(255,255,255,0.2);
     background-repeat: no-repeat;
-    background-size: cover  ;
+    background-size: cover;
  }
 
-  .box-background {
-    
+  .box-background {  
     box-shadow: 5px 10px #afaeae;
     margin: 100px auto 0 auto;
     background: white no-repeat;
