@@ -536,7 +536,7 @@ h6 {
     }
 
  .bg{
-  background-image: linear-gradient(-60deg,rgba(107,127,198,0.4234943977591037) 50%,rgba(190, 197, 225, 0.423) 50%);
+  background-image: linear-gradient(-60deg,rgba(137, 153, 211, 0.423) 50%,rgba(190, 197, 225, 0.423) 50%);
   /* background-image: url("https://i1.wp.com/zeevector.com/wp-content/uploads/Background/Blue-Abstract-Gradient-Background-with-top-ribbons.png?fit=1238,938&ssl=1");     */
   /* background-image: url("https://img.freepik.com/free-photo/perspective-exterior-nobody-empty-box_1258-260.jpg?w=900&t=st=1689502506~exp=1689503106~hmac=8c9971d89d3fe2063768420ba8add21b28f009186634862a51aca527a9584cf1");     */
   /* background-position: center; */
@@ -547,7 +547,7 @@ h6 {
  }
 
  .bg1{
-   background-image:linear-gradient(60deg, rgba(190, 197, 225, 0.423) 50%, rgba(107,127,198,0.4234943977591037) 50%);
+   background-image:linear-gradient(60deg, rgba(190, 197, 225, 0.423) 50%, rgba(137, 153, 211, 0.423) 50%);
    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-zmimgWfmqlSlybsr_wLOZK211HQa0bWh2Wlg3suB8ZYoX5yEBP-gB0f8N6Pt1fzDHTc&usqp=CAU"); */
    /* background-image: url("https://static.vecteezy.com/system/resources/thumbnails/007/784/841/small/health-and-science-medical-innovation-concept-abstract-geometric-futuristic-background-from-hexagons-pattern-light-blue-radiant-background-illustration-vector.jpg"); */
   /* background-position: center; */
@@ -558,7 +558,7 @@ h6 {
  }
 
  .elearn-bg{
-  background-image:linear-gradient(65deg, rgba(190, 197, 225, 0.423) 50%, rgba(107,127,198,0.4234943977591037) 50%);
+  background-image:linear-gradient(60deg, rgba(190, 197, 225, 0.423) 50%,rgba(137, 153, 211, 0.423) 50%);
    border-radius: 20px;
    box-shadow: 5px 5px rgb(171, 169, 169);
  }
