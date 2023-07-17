@@ -372,8 +372,10 @@
   /* ABOUT COMPANY */
  
   #sec2{
-    padding: 2%;  
-    background-image: url("https://i.pinimg.com/originals/98/43/bf/9843bfbabc07e0b5504fecc77c4109ca.jpg");
+
+    padding: 2%; 
+    
+    background-image: url("/images/bgg.jpeg");
     background-color: rgba(255,255,255,0.2);
     background-repeat: no-repeat;
     background-size: cover  ;
@@ -472,7 +474,7 @@
   }
 
   #sec4{
-    background-image: url("https://thumbs.gfycat.com/SparseAnnualBovine-size_restricted.gif");
+   background-image: url('https://img1.picmix.com/output/stamp/normal/3/3/7/0/1970733_5bcf4.gif');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
