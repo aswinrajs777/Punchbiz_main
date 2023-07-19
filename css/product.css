@@ -552,7 +552,7 @@ h6 {
  }
 
  .elearn-bg{
-  background-image:linear-gradient(60deg, rgba(190, 197, 225, 0.423) 50%,rgba(137, 153, 211, 0.423) 50%);
+  background-image:linear-gradient(65deg, rgba(190, 197, 225, 0.423) 50%,rgba(137, 153, 211, 0.423) 50%);
    border-radius: 20px;
    box-shadow: 5px 5px rgb(171, 169, 169);
  }
